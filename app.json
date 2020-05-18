@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/CW4RR10R/python-aria-mirror-bot",
-  "success_url": "https://telegram.dog/LeechYourTorrentsBot",
-  "website": "https://github.com/CW4RR10R/python-aria-mirror-bot",  
+  "repository": "https://github.com/Anonymous5945/test-mirror",
+  "success_url": "https://github.com/Anonymous5945/test-mirror",
+  "website": "https://github.com/Anonymous5945/test-mirror",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
@@ -37,7 +37,7 @@
     },
     "AUTH_CHATS": {
       "description": "chat ids which you wanted to authorize",
-      "value": "608679953",
+      "value": "",
        "required": false
     },
     "DOWNLOAD_DIR": {
